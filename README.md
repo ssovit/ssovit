@@ -1,7 +1,3 @@
-# Dear FestingerVault Users and their customers
-I am no longer engaged as FestingerVault development lead. I am unaware of development status and progress. I would not be able to provide any responses on their behalf.
-
-
 # 👋 Hi, I’m Sovit Tamrakar  
 
 💻 **Full-Stack Web Developer** | 🌍 Based in Nepal | 🚀 12+ Years Experience  
